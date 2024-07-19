@@ -16,4 +16,5 @@ public class Employee {
       public String getdetails(){
           return "name: "+name+", age: "+age+", address: "+address+", telephone: "+telephone;
       }
+
 }
