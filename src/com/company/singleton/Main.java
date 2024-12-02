@@ -7,5 +7,6 @@ public class  Main {
         Single single1 = Single.getinstance();//this instance is created
         Single single2 = Single.getinstance();//this instance is not created
         Single single3 = Single.getinstance();
+
     }
 }
